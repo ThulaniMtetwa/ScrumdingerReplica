@@ -11,7 +11,7 @@ import SwiftUI
 struct ScrumdingerReplicaApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            // Rendered view
         }
     }
 }
